@@ -77,6 +77,17 @@ Discord YouTube App позволяет пользователям обходит
 - Все файлы сторонних разработчиков (скрипты, двоичные файлы и библиотеки) остаются неизменными.
 - Убедитесь, что вы запускаете приложение с правами администратора для обеспечения надлежащей функциональности.
 
+---
+
+  ## Хэшы файлов
+
+- **winws.exe** SHA256 hash: `13FD7A9C6F7C98239A61A212F69211A0F19159B2E8CDAE8B1EFC57D35CDCD5AD`
+- **WinDivert64.sys** SHA256 hash: `8DA085332782708D8767BCACE5327A6EC7283C17CFB85E40B03CD2323A90DDC2`
+- **WinDivert.dll** SHA256 hash: `C1E060EE19444A259B2162F8AF0F3FE8C4428A1C6F694DCE20DE194AC8D7D9A2`
+- **tls_clienthello_www_google_com.bin** SHA256 hash: `E5938780152169F720383F80EABB309E9477369B83B5EC40CC137C397F862CDE`
+- **quic_initial_www_google_com.bin** SHA256 hash: `F4589C57749F956BB30538197A521D7005F8B0A8723B4707E72405E51DDAC50A`
+- **cygwin1.dll** SHA256 hash: `712C39A069541AFA69CFCBE01B422BD67B4201EEE7E94CC1327D4ED8B4FA2167`
+
 --- 
 
 # Discord YouTube App (English)
@@ -152,4 +163,16 @@ The project is licensed under the [MIT License](https://github.com/Meltyqwe/Disc
 
 - All third-party developer files (scripts, binaries, and libraries) remain unaltered.
 - Ensure that you run the application with administrative privileges for proper functionality.
+
+  ---
+
+  ## File Hashes
+
+- **winws.exe** SHA256 hash: `13FD7A9C6F7C98239A61A212F69211A0F19159B2E8CDAE8B1EFC57D35CDCD5AD`
+- **WinDivert64.sys** SHA256 hash: `8DA085332782708D8767BCACE5327A6EC7283C17CFB85E40B03CD2323A90DDC2`
+- **WinDivert.dll** SHA256 hash: `C1E060EE19444A259B2162F8AF0F3FE8C4428A1C6F694DCE20DE194AC8D7D9A2`
+- **tls_clienthello_www_google_com.bin** SHA256 hash: `E5938780152169F720383F80EABB309E9477369B83B5EC40CC137C397F862CDE`
+- **quic_initial_www_google_com.bin** SHA256 hash: `F4589C57749F956BB30538197A521D7005F8B0A8723B4707E72405E51DDAC50A`
+- **cygwin1.dll** SHA256 hash: `712C39A069541AFA69CFCBE01B422BD67B4201EEE7E94CC1327D4ED8B4FA2167`
+
 
