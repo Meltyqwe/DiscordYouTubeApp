@@ -1,5 +1,18 @@
 # Discord YouTube App
 
+**Note**
+
+Этот репозиторий является некоммерческой сборкой оригинальных репозиториев. В нем используются оригинальные бинарники, которые вы можете проверить с помощью хэшей. Поскольку проект является open-source, вы всегда можете собрать эти бинарники самостоятельно и не беспокоиться о безопасности.
+
+Использованные оригинальные репозитории:
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+- [bol-van/zapret](https://github.com/bol-van/zapret)
+
+**Caution**
+
+Многие антивирусные программы в настоящее время могут сигнализировать о HackTool/RiskTool и WinDivert — это нормальное поведение, так как программа изменяет сетевые пакеты. Что с этим делать? Собрать бинарники самостоятельно из исходного кода, довериться уже собранным или не использовать программу вообще.
+
+
 Приложение для обеспечения стабильного доступа к Discord и YouTube, обходя блокировки и ограничения в сети.
 
 ---
@@ -62,6 +75,19 @@ Discord YouTube App позволяет пользователям обходит
 --- 
 
 # Discord YouTube App (English)
+
+**Note**
+
+This repository is a non-commercial compilation of the original repositories. It uses original binaries that you can verify using hashes. Since the project is open-source, you can always build these binaries yourself and not worry about security.
+
+Used original repositories:
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube )
+- [- [blockhead/ban](https://github.com/bol-van/запрет )
+
+**Caution**
+
+Many antivirus programs can currently signal HackTool/RiskTool and WinDivert — this is normal behavior, as the program modifies network packets. What should I do about it? Assemble the binaries yourself from the source code, trust those already assembled, or not use the program at all.
+
 
 An application designed to ensure stable access to Discord and YouTube by bypassing network restrictions and blocks.
 
