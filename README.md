@@ -31,7 +31,7 @@ Discord YouTube App позволяет пользователям обходит
 
 ## Установка
 
-1. Скачайте последний релиз [здесь](https://github.com/Meltyqwe/DiscordYouTubeApp).
+1. Скачайте последний релиз [здесь](https://github.com/Meltyqwe/DiscordYouTubeApp/releases/tag/1.1).
 2. Убедитесь, что у вас есть права администратора.
 3. Запустите приложение **от имени администратора**.
 4. Наслаждайтесь беспрепятственным доступом к Discord и YouTube!
@@ -88,7 +88,7 @@ An application designed to ensure stable access to Discord and YouTube by bypass
 
 ## Installation
 
-1. Download the latest release [here](https://github.com/Meltyqwe/DiscordYouTubeApp).
+1. Download the latest release [here](https://github.com/Meltyqwe/DiscordYouTubeApp/releases/tag/1.1).
 2. Make sure you have administrator privileges.
 3. Run the application **as administrator**.
 4. Enjoy uninterrupted access to Discord and YouTube!
