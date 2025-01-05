@@ -22,9 +22,10 @@ Discord YouTube App позволяет пользователям обходит
 
 ## Как использовать
 
-1. После запуска приложения нажмите кнопку **"Запустить"**, чтобы активировать обход блокировок.  
-2. Для остановки работы скрипта нажмите кнопку **"Остановить"**.  
-3. Чтобы минимизировать приложение в трей, нажмите кнопку закрытия окна. Чтобы вернуть приложение, дважды щелкните по его значку в трее.
+1. Зпустить приложение от имени АДМИНИСТРАТОРА
+2. После запуска приложения нажмите кнопку **"Запустить"**, чтобы активировать обход блокировок.  
+3. Для остановки работы скрипта нажмите кнопку **"Остановить"**.  
+4. Чтобы минимизировать приложение в трей, нажмите кнопку закрытия окна. Чтобы вернуть приложение, дважды щелкните по его значку в трее.
 
 ---
 
@@ -78,9 +79,10 @@ An application designed to ensure stable access to Discord and YouTube by bypass
 
 ## How to Use
 
-1. Launch the application and click the **"Start"** button to enable bypass functionality.  
-2. To stop the script, click the **"Stop"** button.  
-3. Minimize the application to the system tray by clicking the close button. To restore the application, double-click its icon in the tray.
+1. Run the application as an ADMINISTRATOR
+2. After launching the application, click **"Run"** to activate lock bypass.
+3. To stop the script, click **"Stop it"**.  
+4. To minimize the application in the tray, click the close window button. To return the app, double-click on its tray icon.
 
 ---
 
