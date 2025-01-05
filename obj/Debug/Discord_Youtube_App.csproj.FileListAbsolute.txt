@@ -1,0 +1,12 @@
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\obj\Debug\Discord_Youtube_App.csproj.AssemblyReference.cache
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\obj\Debug\Discord_YouTube_App.DiscordYoutubeApp.resources
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\obj\Debug\Discord_Youtube_App.Properties.Resources.resources
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\obj\Debug\Discord_Youtube_App.csproj.GenerateResource.cache
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\obj\Debug\Discord_Youtube_App.csproj.CoreCompileInputs.cache
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\bin\Debug\Discord_Youtube_App.exe.config
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\bin\Debug\Discord_Youtube_App.exe
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\bin\Debug\Discord_Youtube_App.pdb
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\obj\Debug\Discord_Youtube_App.exe
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\obj\Debug\Discord_Youtube_App.pdb
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\bin\Debug\MaterialSkin.dll
+C:\Users\miska\source\repos\Discord_Youtube_App\Discord_Youtube_App\obj\Debug\Discord_.CF0D2307.Up2Date
