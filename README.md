@@ -12,7 +12,6 @@
 
 Многие антивирусные программы в настоящее время могут сигнализировать о HackTool/RiskTool и WinDivert — это нормальное поведение, так как программа изменяет сетевые пакеты. Что с этим делать? Собрать бинарники самостоятельно из исходного кода, довериться уже собранным или не использовать программу вообще.
 
-
 Приложение для обеспечения стабильного доступа к Discord и YouTube, обходя блокировки и ограничения в сети.
 
 ---
@@ -20,6 +19,12 @@
 ## Описание
 
 Discord YouTube App позволяет пользователям обходить сетевые блокировки, обеспечивая стабильный доступ к Discord и YouTube. Приложение использует технологии маршрутизации и подмены сетевых пакетов.
+
+---
+
+## Разработка
+
+Этот проект был разработан с использованием технологий и идей из различных open-source репозиториев. Особую благодарность хочу выразить [ChatGPT](https://openai.com/chatgpt) за значительный вклад в разработку приложения. ChatGPT помогал мне в написании и оптимизации кода, а также в решении различных технических задач. Я очень благодарен за его помощь, так как она позволила ускорить процесс разработки и улучшить функциональность приложения.
 
 ---
 
@@ -81,7 +86,7 @@ Discord YouTube App позволяет пользователям обходит
 This repository is a non-commercial compilation of the original repositories. It uses original binaries that you can verify using hashes. Since the project is open-source, you can always build these binaries yourself and not worry about security.
 
 Used original repositories:
-- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube )
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 - [bol-van/zapret](https://github.com/bol-van/zapret)
 
 **Caution**
@@ -94,12 +99,18 @@ An application designed to ensure stable access to Discord and YouTube by bypass
 ---
 
 ## Features
-- Uses [WinDivert](https://github.com/basil00/WinDivert ) for routing network traffic and packet spoofing.
-- Based on [zapret-discord](https://github.com/Flowseal/zapret-discord-youtube ) and [zapret](https://github.com/bol-van/zapret ).
-- Graphical interface developed based on Windows Forms, using [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin ) for modern design.
+- Uses [WinDivert](https://github.com/basil00/WinDivert) for routing network traffic and packet spoofing.
+- Based on [zapret-discord](https://github.com/Flowseal/zapret-discord-youtube) and [zapret](https://github.com/bol-van/zapret).
+- Graphical interface developed based on Windows Forms, using [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) for modern design.
 - Support for managing the process of bypassing locks: start, stop and monitoring via the log.
 - Works in the system tray, minimizing interference in the workflow.
 - **Tested for operability:** The last check is **January 05, 2025**.
+
+---
+
+## Development
+
+This project was developed using technologies and ideas from various open-source repositories. Special thanks to [ChatGPT](https://openai.com/chatgpt) for the significant contribution to the development of the application. ChatGPT assisted me in writing and optimizing the code, as well as in solving various technical problems. I am very grateful for its help, as it allowed me to accelerate the development process and improve the application's functionality.
 
 ---
 
