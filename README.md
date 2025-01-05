@@ -11,11 +11,11 @@ Discord YouTube App позволяет пользователям обходит
 ---
 
 ## Особенности
-
-- **Технология маршрутизации:** Использует [WinDivert](https://github.com/basil00/WinDivert) для перенаправления сетевого трафика.
-- **Современный интерфейс:** Создано с использованием [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin).
-- **Логирование и управление:** Позволяет отслеживать статус работы и управлять процессами через кнопку запуска/остановки.
-- **Работа в трее:** Минимизировано вмешательство в рабочий процесс.
+- Использует [WinDivert](https://github.com/basil00/WinDivert) для маршрутизации сетевого трафика и подмены пакетов.
+- Основано на [zapret-discord](https://github.com/Flowseal/zapret-discord-youtube) и [zapret](https://github.com/bol-van/zapret).
+- Графический интерфейс, разработанный на базе Windows Forms, с использованием [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) для современного дизайна.
+- Поддержка управления процессом обхода блокировок: запуск, остановка и мониторинг через лог.
+- Работает в системном трее, минимизируя вмешательство в рабочий процесс.
 - **Проверено на работоспособность:** Последняя проверка — **05 января 2025 года**.
 
 ---
@@ -53,6 +53,13 @@ Discord YouTube App позволяет пользователям обходит
 
 ---
 
+## Примечания
+
+- Все файлы сторонних разработчиков (скрипты, двоичные файлы и библиотеки) остаются неизменными.
+- Убедитесь, что вы запускаете приложение с правами администратора для обеспечения надлежащей функциональности.
+
+--- 
+
 # Discord YouTube App (English)
 
 An application designed to ensure stable access to Discord and YouTube by bypassing network restrictions and blocks.
@@ -60,12 +67,12 @@ An application designed to ensure stable access to Discord and YouTube by bypass
 ---
 
 ## Features
-
-- **Traffic routing technology:** Utilizes [WinDivert](https://github.com/basil00/WinDivert) for packet redirection.
-- **Modern interface:** Built with [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin).
-- **Logging and management:** Enables process monitoring and control through a start/stop button.
-- **System tray support:** Minimizes disruption to your workflow.
-- **Verified functionality:** Last tested on **January 5, 2025**.
+- Uses [WinDivert](https://github.com/basil00/WinDivert ) for routing network traffic and packet spoofing.
+- Based on [zapret-discord](https://github.com/Flowseal/zapret-discord-youtube ) and [zapret](https://github.com/bol-van/zapret ).
+- Graphical interface developed based on Windows Forms, using [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin ) for modern design.
+- Support for managing the process of bypassing locks: start, stop and monitoring via the log.
+- Works in the system tray, minimizing interference in the workflow.
+- **Tested for operability:** The last check is **January 05, 2025**.
 
 ---
 
