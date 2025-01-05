@@ -82,7 +82,7 @@ This repository is a non-commercial compilation of the original repositories. It
 
 Used original repositories:
 - [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube )
-- [- [blockhead/ban](https://github.com/bol-van/запрет )
+- [bol-van/zapret](https://github.com/bol-van/zapret)
 
 **Caution**
 
