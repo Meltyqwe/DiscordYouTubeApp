@@ -100,6 +100,7 @@ This repository is a non-commercial compilation of the original repositories. It
 Used original repositories:
 - [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 - [bol-van/zapret](https://github.com/bol-van/zapret)
+- [bol-van/zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle)
 
 **Caution**
 
